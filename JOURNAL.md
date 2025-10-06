@@ -15,3 +15,10 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 ![{2B89D679-2529-4567-853E-A6576E5F5004}.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjU4LCJwdXIiOiJibG9iX2lkIn19--d80a051832b4fc173680d405e3f207296caa410c/%7B2B89D679-2529-4567-853E-A6576E5F5004%7D.png)
 I'm following the hackpad tutorial, seems kinda ok right now, will probably be more difficult as I go. Probably the most confusing thing for me right now is the OPL stuff and symbols and footprints and the menu things like the XIAO things; I'm just following the guide to lead me through.   
 
+## 10/6/2025 - Made PCB  
+
+![{FB9586AF-22B1-4A81-962B-66C320388451}.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjY4LCJwdXIiOiJibG9iX2lkIn19--b14145de2c8b766e5dcade6be92ee6317912bb28/%7BFB9586AF-22B1-4A81-962B-66C320388451%7D.png)
+The PCB part kicked my butt hard, DRC is so confusinggggg
+I finally finished the PCB, still following the tutorial, hoping to get some more progress today.
+As a complete beginner to hardware, I feel that my progress is pretty fast, I hope to keep this pace up.  
+
