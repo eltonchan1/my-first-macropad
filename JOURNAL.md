@@ -6,27 +6,30 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **My first macropad**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/167).
-
-
-## 10/5/2025 - Made Schematic  
+## 10/5/2025 3 PM - Made Schematic  
 
 ![{2B89D679-2529-4567-853E-A6576E5F5004}.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjU4LCJwdXIiOiJibG9iX2lkIn19--d80a051832b4fc173680d405e3f207296caa410c/%7B2B89D679-2529-4567-853E-A6576E5F5004%7D.png)
 I'm following the hackpad tutorial, seems kinda ok right now, will probably be more difficult as I go. Probably the most confusing thing for me right now is the OPL stuff and symbols and footprints and the menu things like the XIAO things; I'm just following the guide to lead me through.   
 
-## 10/6/2025 12 AM - Made PCB  
+## 10/5/2025 5 PM - Made PCB  
 
 ![{FB9586AF-22B1-4A81-962B-66C320388451}.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjY4LCJwdXIiOiJibG9iX2lkIn19--b14145de2c8b766e5dcade6be92ee6317912bb28/%7BFB9586AF-22B1-4A81-962B-66C320388451%7D.png)
 The PCB part kicked my butt hard, DRC is so confusinggggg
 I finally finished the PCB, still following the tutorial, hoping to get some more progress today.
 As a complete beginner to hardware, I feel that my progress is pretty fast, I hope to keep this pace up.  
 
-## 10/6/2025 3 AM - Made Fusion 3d models  
+## 10/5/2025 8 PM - Made Fusion 3d models  
 
 ![{4AE33B3E-27BB-416A-ADDC-F70F80CCFA6E}.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Njg1LCJwdXIiOiJibG9iX2lkIn19--decaa4aa93c35856a9a248b1cdf972bb50ab0fe7/%7B4AE33B3E-27BB-416A-ADDC-F70F80CCFA6E%7D.png)
 ![{66093E31-299F-434F-A592-454BDA59B537}.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6Njg2LCJwdXIiOiJibG9iX2lkIn19--16a0b7c3fe15e3cd25f4f80eaf18171269a13a9e/%7B66093E31-299F-434F-A592-454BDA59B537%7D.png)
 this took so long and im soooo tired lmao, i still dont know how to combine the two so that i can try to see if they match up
 there was a lot of trial and error and thats probably good but it kinda sucked lol
 just gotta keep going, so close yet so far...  
+
+## 10/21/2025 - Firmware and GitHub  
+
+Firmware is so confusing... even had to take a break away from this project for two weeks...
+For the firmware I combined the hackpad code that's on the guide and the code from https://github.com/palmacas/MacroBoard, it was really difficult to try to find what to do because the hackpad tutorial doesn't quite help me with that... I also put all my things on github mostly using https://github.com/palmacas/MacroBoard as an example, and I think I'm mostly done with the planning of this project, hopefully I get approved!
+![{F3BCDD30-EE0B-4944-BD7D-57ABCF052775}.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--370cb15420c3073d93174e6998be479bb740e034/%7BF3BCDD30-EE0B-4944-BD7D-57ABCF052775%7D.png)
+  
 
